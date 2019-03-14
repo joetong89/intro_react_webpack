@@ -1,6 +1,6 @@
 import React from 'react';
 
-class New FreeAgentFrom extends React.Component {
+class NewFreeAgentFrom extends React.Component {
 
 	constructor(props) {
 		super(props);
